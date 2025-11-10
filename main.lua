@@ -2,7 +2,7 @@
 --- MOD_NAME: Splash of Colour
 --- MOD_ID: splashofcolour
 --- PREFIX: soc
---- MOD_AUTHOR: [Smoliconboi]
+--- MOD_AUTHOR: [SmoliconBoi]
 --- MOD_DESCRIPTION: Gives Bonus and Wild cards a new coat of paint to make them more interesting, inspired by SoftiBoiled
 --- DEPENDENCIES: [malverk]
 
