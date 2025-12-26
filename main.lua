@@ -19,7 +19,7 @@ AltTexture({
   path = 'splashofcolour.png', -- the filename of your spritesheet, saved in assets/1x AND assets/2x
   keys = {'m_bonus', 'm_wild'},
   loc_txt = { -- [NYI] Localization text for tooltips displayed in the texture selection screen - can be added to a localization file under [descriptions][alt_texture]
-    name = 'Example Texture',
+    name = 'Texture',
   }
 })
 
