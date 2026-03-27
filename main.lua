@@ -25,7 +25,7 @@ AltTexture({
 
 TexturePack({
     key = "splash_of_colour",
-     textures = {'soc_enhancements'},
+    textures = {'soc_enhancements'},
       loc_txt = {
         name = 'Splash of Colour',
         text = {'Gives {c:attention}Bonus{} and {c:attention}Wild{} cards a new coat of paint,', 'inspired by SoftiBoiled :>'}
