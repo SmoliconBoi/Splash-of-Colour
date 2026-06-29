@@ -10,6 +10,7 @@ AltTexture({
   key = 'soc_enhancements',
   set = 'Enhanced',
   path = 'splashofcolour.png',
+  display_pos = 'm_wild',
   keys = {'m_bonus', 'm_wild'},
   loc_txt = {
     name = 'Splash of Colour',
