@@ -1,10 +1,10 @@
 # -=:Splash of Colour:=- #
-a Simple Balatro Texture Pack that gives Bonus and Wild cards a new coat of paint to make them more interesting (and in the case of the latter, quite literally)
+a Balatro Texture Pack that retextures the Bonus and Wild cards to make them stand out more (and in the case of the latter, quite literally give a new coat of paint)
 
 (Requires Malverk)
 
 ## -=:Preview:=- ##
- ![](/assets/preview.png)
+ ![](/assets/preview.gif)
 
 ### -=:Inspirations:=- ###
 u/SoftiBoiled on Reddit

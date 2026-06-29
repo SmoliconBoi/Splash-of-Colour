@@ -1,10 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Splash of Colour
---- MOD_ID: splashofcolour
---- PREFIX: soc
---- MOD_AUTHOR: [SmoliconBoi]
---- MOD_DESCRIPTION: Gives Bonus and Wild cards a new coat of paint to make them more interesting, inspired by SoftiBoiled
---- DEPENDENCIES: [malverk]
 
 SMODS.Atlas({
     key = "modicon",
@@ -19,7 +12,7 @@ AltTexture({
   path = 'splashofcolour.png',
   keys = {'m_bonus', 'm_wild'},
   loc_txt = {
-    name = 'Example Texture',
+    name = 'Splash of Colour',
   }
 })
 
@@ -28,6 +21,11 @@ TexturePack({
     textures = {'soc_enhancements'},
       loc_txt = {
         name = 'Splash of Colour',
-        text = {'Gives {c:attention}Bonus{} and {c:attention}Wild{} cards a new coat of paint,', 'inspired by SoftiBoiled :>'}
+        text ={
+            [1]='Retextures the {C:attention}Bonus{}',
+            [2]='and {C:attention}Wild{} cards to have',
+            [3]='a new coat of paint :>',
+            [4]='{s:0.8}inspired by {}{s:0.8,C:dark_edition}u/SoftiBoiled{}'
+        }
       }
     })
